@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "userId": "848672625420926996",
+      "adminPoints": 0,
+      "voicePoints": 0,
+      "messagePoints": 4,
+      "totalPoints": 4,
+      "currentLoginTimestamp": null,
+      "voiceJoinTimestamp": null,
+      "messageCount": 4,
+      "wordCount": 14,
+      "voiceMinutes": 0,
+      "lastLoginMessageId": null,
+      "createdAt": "2026-04-07T20:16:54.211Z",
+      "updatedAt": "2026-04-07T20:17:23.756Z"
+    },
+    {
+      "userId": "1018435728776114208",
+      "adminPoints": 0,
+      "voicePoints": 0,
+      "messagePoints": 2,
+      "totalPoints": 2,
+      "currentLoginTimestamp": null,
+      "voiceJoinTimestamp": null,
+      "messageCount": 2,
+      "wordCount": 4,
+      "voiceMinutes": 0,
+      "lastLoginMessageId": null,
+      "createdAt": "2026-04-07T20:17:08.319Z",
+      "updatedAt": "2026-04-07T20:56:26.268Z"
+    }
+  ]
+}

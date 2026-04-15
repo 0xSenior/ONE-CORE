@@ -1,0 +1,45 @@
+{
+  "tickets": [
+    {
+      "ticket_id": "T-0001",
+      "user_id": "1018435728776114208",
+      "category": "البلاغات الإدارية",
+      "status": "open",
+      "created_at": "2026-04-07T20:16:17.500Z",
+      "claimed_by": null,
+      "claimed_at": null,
+      "closed_at": null,
+      "archived": 0,
+      "rating": null,
+      "feedback": null
+    },
+    {
+      "ticket_id": "T-0002",
+      "user_id": "1018435728776114208",
+      "category": "البلاغات الإدارية",
+      "status": "open",
+      "created_at": "2026-04-07T20:59:06.611Z",
+      "claimed_by": null,
+      "claimed_at": null,
+      "closed_at": null,
+      "archived": 0,
+      "rating": null,
+      "feedback": null
+    },
+    {
+      "ticket_id": "T-0003",
+      "user_id": "1018435728776114208",
+      "category": "البلاغات الإدارية",
+      "status": "open",
+      "created_at": "2026-04-07T21:04:18.390Z",
+      "claimed_by": null,
+      "claimed_at": null,
+      "closed_at": null,
+      "archived": 0,
+      "rating": null,
+      "feedback": null
+    }
+  ],
+  "adminRatings": [],
+  "nextTicketNumber": 4
+}

@@ -1,0 +1,502 @@
+{
+  "ticketData": [
+    [
+      "1486949337769574450",
+      {
+        "userId": "456316195453534208",
+        "channelId": "1486949337769574450",
+        "panelMessageId": "1486949341049524297",
+        "ticketNumber": 8,
+        "ticketId": "T-0008",
+        "category": {
+          "label": "البلاغات الإدارية",
+          "value": "complaints",
+          "emoji": ""
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "البلاغات الإدارية",
+        "createdAt": "2026-03-27T04:45:50.067Z",
+        "closed": true,
+        "closedAt": "2026-03-27T15:00:42.569Z"
+      }
+    ],
+    [
+      "ticket_rating_1486949337769574450",
+      {
+        "userId": "456316195453534208",
+        "ticketId": "1486949337769574450",
+        "claimedBy": null,
+        "closedAt": "2026-03-27T15:00:40.571Z",
+        "category": "البلاغات الإدارية",
+        "closedBy": "852816646540361751",
+        "messageId": "1487104075773509763"
+      }
+    ],
+    [
+      "1487107283707236615",
+      {
+        "userId": "852816646540361751",
+        "channelId": "1487107283707236615",
+        "panelMessageId": "1487107287003828348",
+        "ticketNumber": 9,
+        "ticketId": "T-0009",
+        "category": {
+          "label": "المركبات والبيوت",
+          "value": "vehicles",
+          "emoji": ""
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "المركبات والبيوت",
+        "createdAt": "2026-03-27T15:13:27.860Z",
+        "claimedBy": "1282452732388577342",
+        "claimedAt": "2026-03-27T15:13:44.001Z"
+      }
+    ],
+    [
+      "user_rating_submitted_1487107283707236615",
+      {
+        "userId": "852816646540361751",
+        "ticketId": "1487107283707236615",
+        "rating": 5,
+        "feedback": null,
+        "timestamp": 1774624424573
+      }
+    ],
+    [
+      "1487107520962236598",
+      {
+        "userId": "525686759271694365",
+        "channelId": "1487107520962236598",
+        "panelMessageId": "1487107524707483669",
+        "ticketNumber": 10,
+        "ticketId": "T-0010",
+        "category": {
+          "label": "البلاغات الإدارية",
+          "value": "complaints",
+          "emoji": ""
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "البلاغات الإدارية",
+        "createdAt": "2026-03-27T15:14:24.706Z",
+        "closed": true,
+        "closedAt": "2026-03-27T15:21:00.057Z"
+      }
+    ],
+    [
+      "1487109220636688385",
+      {
+        "userId": "525686759271694365",
+        "channelId": "1487109220636688385",
+        "panelMessageId": "1487109223518048287",
+        "ticketNumber": 11,
+        "ticketId": "T-0011",
+        "category": {
+          "label": "البلاغات الإدارية",
+          "value": "complaints",
+          "emoji": ""
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "البلاغات الإدارية",
+        "createdAt": "2026-03-27T15:21:09.096Z",
+        "claimedBy": "1282452732388577342",
+        "claimedAt": "2026-03-27T15:21:11.880Z",
+        "closed": true,
+        "closedAt": "2026-03-27T15:21:39.001Z"
+      }
+    ],
+    [
+      "user_rating_submitted_1487107520962236598",
+      {
+        "userId": "525686759271694365",
+        "ticketId": "1487107520962236598",
+        "rating": 5,
+        "feedback": null,
+        "timestamp": 1774624904066
+      }
+    ],
+    [
+      "user_rating_submitted_1487109220636688385",
+      {
+        "userId": "525686759271694365",
+        "ticketId": "1487109220636688385",
+        "rating": 5,
+        "feedback": null,
+        "timestamp": 1774624906482
+      }
+    ],
+    [
+      "1487111064398201046",
+      {
+        "userId": "525686759271694365",
+        "channelId": "1487111064398201046",
+        "panelMessageId": "1487111067355316225",
+        "ticketNumber": 12,
+        "ticketId": "T-0012",
+        "category": {
+          "label": "البلاغات الإدارية",
+          "value": "complaints",
+          "emoji": ""
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "البلاغات الإدارية",
+        "createdAt": "2026-03-27T15:28:29.061Z",
+        "closed": true,
+        "closedAt": "2026-03-27T16:31:11.911Z"
+      }
+    ],
+    [
+      "ticket_rating_1487111064398201046",
+      {
+        "userId": "525686759271694365",
+        "ticketId": "1487111064398201046",
+        "claimedBy": null,
+        "closedAt": "2026-03-27T16:31:09.377Z",
+        "category": "البلاغات الإدارية",
+        "closedBy": "852816646540361751",
+        "messageId": "1487126845861400648"
+      }
+    ],
+    [
+      "new_ticket_525686759271694365",
+      {
+        "userId": "525686759271694365",
+        "createdAt": "2026-03-27T15:34:52.253Z"
+      }
+    ],
+    [
+      "ticket_rating_1486659954206310503",
+      {
+        "userId": "848672625420926996",
+        "ticketId": "1486659954206310503",
+        "claimedBy": null,
+        "closedAt": "2026-03-27T16:47:29.759Z",
+        "category": "غير محدد",
+        "closedBy": "852816646540361751",
+        "messageId": "1487130957902254274",
+        "rating": 5
+      }
+    ],
+    [
+      "rating_1486659954206310503",
+      {
+        "userId": "848672625420926996",
+        "ticketId": "1486659954206310503",
+        "rating": 5,
+        "timestamp": 1774633230631
+      }
+    ],
+    [
+      "1487198402931462238",
+      {
+        "userId": "348732128650854401",
+        "channelId": "1487198402931462238",
+        "panelMessageId": "1487198406517719042",
+        "ticketNumber": 13,
+        "ticketId": "T-0013",
+        "category": {
+          "label": "البلاغات الإدارية",
+          "value": "complaints",
+          "emoji": ""
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "البلاغات الإدارية",
+        "createdAt": "2026-03-27T21:15:32.276Z"
+      }
+    ],
+    [
+      "ticket_rating_1487198402931462238",
+      {
+        "userId": "348732128650854401",
+        "ticketId": "1487198402931462238",
+        "claimedBy": null,
+        "closedAt": "2026-03-27T21:17:15.992Z",
+        "category": "البلاغات الإدارية",
+        "closedBy": "852816646540361751",
+        "messageId": "1487198858089070793"
+      }
+    ],
+    [
+      "ticket_rating_1486322016595480627",
+      {
+        "userId": "1462073635748450374",
+        "ticketId": "1486322016595480627",
+        "claimedBy": null,
+        "closedAt": "2026-03-27T21:21:55.576Z",
+        "category": "غير محدد",
+        "closedBy": "813996507065614366",
+        "messageId": "1487200022771667125"
+      }
+    ],
+    [
+      "1487211445228802059",
+      {
+        "userId": "536216764078620702",
+        "channelId": "1487211445228802059",
+        "panelMessageId": "1487211450295386313",
+        "ticketNumber": 14,
+        "ticketId": "T-0014",
+        "category": {
+          "label": "التقديمات",
+          "value": "applications",
+          "emoji": ""
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "التقديمات",
+        "createdAt": "2026-03-27T22:07:22.017Z",
+        "closed": true,
+        "closedAt": "2026-03-27T22:26:17.446Z"
+      }
+    ],
+    [
+      "ticket_rating_1487211445228802059",
+      {
+        "userId": "536216764078620702",
+        "ticketId": "1487211445228802059",
+        "claimedBy": null,
+        "closedAt": "2026-03-27T22:26:14.364Z",
+        "category": "التقديمات",
+        "closedBy": "1120682683991863376",
+        "messageId": "1487216206476869673"
+      }
+    ],
+    [
+      "1487247104287182848",
+      {
+        "userId": "852816646540361751",
+        "channelId": "1487247104287182848",
+        "panelMessageId": "1487247107105620009",
+        "ticketNumber": 15,
+        "ticketId": "T-0015",
+        "category": {
+          "label": "التقديمات",
+          "value": "applications",
+          "emoji": ""
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "التقديمات",
+        "createdAt": "2026-03-28T00:29:03.463Z",
+        "closed": true,
+        "closedAt": "2026-03-28T00:29:27.283Z"
+      }
+    ],
+    [
+      "ticket_rating_1487247104287182848",
+      {
+        "userId": "852816646540361751",
+        "ticketId": "1487247104287182848",
+        "claimedBy": null,
+        "closedAt": "2026-03-28T00:29:25.766Z",
+        "category": "التقديمات",
+        "closedBy": "852816646540361751",
+        "messageId": "1487247207345160294",
+        "rating": 5
+      }
+    ],
+    [
+      "rating_1487247104287182848",
+      {
+        "userId": "852816646540361751",
+        "ticketId": "1487247104287182848",
+        "rating": 5,
+        "timestamp": 1774657770215
+      }
+    ],
+    [
+      "1487608698955239596",
+      {
+        "userId": "1208813413786984509",
+        "channelId": "1487608698955239596",
+        "panelMessageId": "1487608702172401746",
+        "ticketNumber": 16,
+        "ticketId": "T-0016",
+        "category": {
+          "value": "technical",
+          "emoji": "🔧",
+          "label": "مشكلة تقنية"
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "الدعم الفني",
+        "createdAt": "2026-03-29T00:25:54.403Z",
+        "claimedBy": "1120682683991863376",
+        "claimedAt": "2026-03-29T00:25:56.971Z",
+        "closed": true,
+        "closedAt": "2026-03-29T00:27:15.085Z"
+      }
+    ],
+    [
+      "user_rating_submitted_1487608698955239596",
+      {
+        "userId": "1208813413786984509",
+        "ticketId": "1487608698955239596",
+        "rating": 5,
+        "feedback": "شب كثير محترم",
+        "timestamp": 1774744044513
+      }
+    ],
+    [
+      "1488235026494656552",
+      {
+        "userId": "1466007315227476025",
+        "channelId": "1488235026494656552",
+        "panelMessageId": "1488235030634303569",
+        "ticketNumber": 17,
+        "ticketId": "T-0017",
+        "category": {
+          "value": "general",
+          "emoji": "❓",
+          "label": "استفسار عام"
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "إستفسارات عامة",
+        "createdAt": "2026-03-30T17:54:43.541Z",
+        "claimedBy": "1120682683991863376",
+        "claimedAt": "2026-03-30T17:54:45.956Z",
+        "closed": true,
+        "closedAt": "2026-03-30T17:55:53.615Z"
+      }
+    ],
+    [
+      "user_rating_submitted_1488235026494656552",
+      {
+        "userId": "1466007315227476025",
+        "ticketId": "1488235026494656552",
+        "rating": 5,
+        "feedback": null,
+        "timestamp": 1774893374464
+      }
+    ],
+    [
+      "1488285527198273587",
+      {
+        "userId": "873222595162566686",
+        "channelId": "1488285527198273587",
+        "panelMessageId": "1488285530201522288",
+        "ticketNumber": 18,
+        "ticketId": "T-0018",
+        "category": {
+          "value": "general",
+          "emoji": "❓",
+          "label": "استفسار عام"
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "إستفسارات عامة",
+        "createdAt": "2026-03-30T21:15:22.314Z",
+        "claimedBy": "1120682683991863376",
+        "claimedAt": "2026-03-30T21:15:30.660Z",
+        "closed": true,
+        "closedAt": "2026-03-31T21:20:59.708Z"
+      }
+    ],
+    [
+      "new_ticket_1469101236069470425",
+      {
+        "userId": "1469101236069470425",
+        "createdAt": "2026-03-31T17:12:43.366Z"
+      }
+    ],
+    [
+      "1488633926405853426",
+      {
+        "userId": "1282452732388577342",
+        "channelId": "1488633926405853426",
+        "panelMessageId": "1488633930734112800",
+        "ticketNumber": 19,
+        "ticketId": "T-0019",
+        "category": {
+          "value": "technical",
+          "emoji": "🔧",
+          "label": "مشكلة تقنية"
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "الدعم الفني",
+        "createdAt": "2026-03-31T20:19:47.483Z",
+        "claimedBy": "1282452732388577342",
+        "claimedAt": "2026-03-31T20:19:53.391Z"
+      }
+    ],
+    [
+      "ticket_rating_1488285527198273587",
+      {
+        "userId": "873222595162566686",
+        "ticketId": "1488285527198273587",
+        "claimedBy": "1120682683991863376",
+        "closedAt": "2026-03-31T21:20:58.251Z",
+        "category": "استفسار عام",
+        "closedBy": "1018435728776114208",
+        "messageId": "1488649331408896201"
+      }
+    ],
+    [
+      "1488788758177517780",
+      {
+        "userId": "786349721278480394",
+        "channelId": "1488788758177517780",
+        "panelMessageId": "1488788762338263162",
+        "ticketNumber": 20,
+        "ticketId": "T-0020",
+        "category": {
+          "label": "البلاغات الإدارية",
+          "value": "complaints",
+          "emoji": ""
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "البلاغات الإدارية",
+        "createdAt": "2026-04-01T06:35:02.093Z"
+      }
+    ],
+    [
+      "1488791435305029732",
+      {
+        "userId": "813996507065614366",
+        "channelId": "1488791435305029732",
+        "panelMessageId": "1488791439394734133",
+        "ticketNumber": 21,
+        "ticketId": "T-0021",
+        "category": {
+          "value": "technical",
+          "emoji": "🔧",
+          "label": "مشكلة تقنية"
+        },
+        "categoryId": "1439634429415784468",
+        "roleName": "الدعم الفني",
+        "createdAt": "2026-04-01T06:45:40.308Z",
+        "closed": true,
+        "closedAt": "2026-04-01T06:51:52.118Z"
+      }
+    ],
+    [
+      "ticket_rating_1488791435305029732",
+      {
+        "userId": "813996507065614366",
+        "ticketId": "1488791435305029732",
+        "claimedBy": null,
+        "closedAt": "2026-04-01T06:51:50.335Z",
+        "category": "مشكلة تقنية",
+        "closedBy": "813996507065614366",
+        "messageId": "1488792996093759669"
+      }
+    ],
+    [
+      "ticket_rating_1488788758177517780",
+      {
+        "userId": "786349721278480394",
+        "ticketId": "1488788758177517780",
+        "claimedBy": null,
+        "closedAt": "2026-04-01T22:26:16.413Z",
+        "category": "البلاغات الإدارية",
+        "closedBy": "813996507065614366",
+        "messageId": "1489028156013678723",
+        "rating": 5
+      }
+    ],
+    [
+      "rating_1488788758177517780",
+      {
+        "userId": "786349721278480394",
+        "ticketId": "1488788758177517780",
+        "rating": 5,
+        "timestamp": 1775082476540
+      }
+    ]
+  ]
+}
